@@ -25,17 +25,17 @@ ul {
 }
 
 h1{
-    margin-left: 85rem;
+    margin-left: 60rem;
     margin-bottom: 3.5rem;
-    font-size: 5rem;
+    font-size: 2rem;
     font-weight: 100;
 
 }
 
 input {
     display: flex;
-    margin-left: 90rem;
-    margin-bottom: 3.5rem;
+    margin-left: 65rem;
+    margin-bottom: 1.5rem;
 
     
     padding: 10px;
